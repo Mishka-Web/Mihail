@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Mihail403/pictures/commit/react.png)
+![React](https://raw.githubusercontent.com/Mihail403/pictures/commit/react.png)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mihail403&theme=oldie&no-frame=true&column=-1&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
