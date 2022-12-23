@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="" width="">
-    ![](https://komarev.com/ghpvc/?username=Mihail403)
+    <img src="https://komarev.com/ghpvc/?username=Mihail403&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="main" align="center">
