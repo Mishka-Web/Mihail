@@ -1,10 +1,20 @@
 <div id="main" align="left">
     
-# About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-### I am a Junior Frontend Developer.
+---    
     
----
-<br>
+# About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    
+### I am a Junior Frontend Developer.
+   
+- I work as a Junior Frontend Developer at Haydex, I create multi-page and single-page websites, web applications.
+
+- Exploring Technical Content Writing.
+
+- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+    
+<br> 
+    
+--- 
     
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -26,14 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40"/>&nbsp;
 </div>
-     
----
+    
 <br>
 
 ### :fire: My Stats :
