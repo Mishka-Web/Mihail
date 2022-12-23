@@ -1,6 +1,6 @@
 <div id="main" align="left">
     
-# About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/>
+## About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"/>
 ### I am a Junior Frontend Developer.
     
 ---
