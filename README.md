@@ -6,11 +6,11 @@
     
 ### I am a Junior Frontend Developer.
    
-- I work as a Junior Frontend Developer at Haydex, I create multi-page and single-page websites, web applications.
+- I work as a Junior Frontend Developer at Haydex, I create multi-page and single-page websites and web applications.
 
-- Exploring Technical Content Writing.
+- I study technologies such as React and Vue.
 
-- In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- In my free time, I solve problems on Codewars and read articles on Habr and Stackoverflow.
     
 <br> 
     
@@ -41,6 +41,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40"/>&nbsp;
 </div>
+    
+--- 
     
 <br>
 
