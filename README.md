@@ -6,7 +6,7 @@
     
 ### I am a Front-end Developer.
    
-- I work as a Junior Frontend Developer at Haydex, I create multi-page and single-page websites and web applications.
+- I work as a Front-end Developer at Haydex, I create multi-page and single-page websites and web applications.
 
 - I study technologies such as React and Vue.
 
