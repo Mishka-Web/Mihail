@@ -7,10 +7,6 @@
 ### I am a Full-stack Developer.
    
 - I work at Haydex, I create multi-page and single-page websites and web applications.
-
-- I study technologies such as React and Vue.
-
-- In my free time, I solve problems on Codewars and read articles on Habr and Stackoverflow.
     
 <br> 
     
