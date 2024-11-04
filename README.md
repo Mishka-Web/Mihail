@@ -6,7 +6,7 @@
     
 ### I am a Full-stack Developer.
    
-- I work as a Front-end Developer at Haydex, I create multi-page and single-page websites and web applications.
+- I work at Haydex, I create multi-page and single-page websites and web applications.
 
 - I study technologies such as React and Vue.
 
