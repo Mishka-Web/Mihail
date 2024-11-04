@@ -2,10 +2,10 @@
     
 ---    
     
-# About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     
-### I am a Full-stack Developer.
-# I work at Haydex, I create multi-page and single-page websites and web applications.
+# I am a Full-stack Developer.
+### I work at Haydex, I create multi-page and single-page websites and web applications.
     
 <br> 
     
