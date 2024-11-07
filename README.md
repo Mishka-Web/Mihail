@@ -1,11 +1,7 @@
-<div id="main" align="left">
-    
----    
-    
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    
+<div id="main" align="left"> 
+---
 # I am a Full-stack Developer.
-I work at Haydex, I create multi-page and single-page websites and web applications.
+I work at Haydex, I create multi-page and single-page websites and web applications. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     
 <br> 
     
